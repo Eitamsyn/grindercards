@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="white"/>
+  <!-- Left arm outer -->
+  <path d="M30 30 L115 240 L150 185 L90 30 Z" fill="#0d0d0d"/>
+  <!-- Left arm inner cut -->
+  <path d="M50 30 L120 195 L150 185 L110 30 Z" fill="white"/>
+  <!-- Right arm outer -->
+  <path d="M270 30 L185 240 L150 185 L210 30 Z" fill="#0d0d0d"/>
+  <!-- Right arm inner cut -->
+  <path d="M250 30 L180 195 L150 185 L190 30 Z" fill="white"/>
+  <!-- Bottom diamond point -->
+  <path d="M150 185 L118 237 L150 260 L182 237 Z" fill="#0d0d0d"/>
+  <!-- Center overlap cut for woven effect -->
+  <path d="M135 165 L150 185 L165 165 L150 150 Z" fill="white"/>
+  <!-- SYNDICATE text -->
+  <text x="150" y="288" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="6" fill="#0d0d0d">SYNDICATE</text>
+  <text x="265" y="275" font-family="Arial" font-size="14" fill="#0d0d0d">&#174;</text>
+</svg>

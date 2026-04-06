@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="160" viewBox="0 0 500 160">
+  <rect width="500" height="160" fill="white"/>
+  <!-- V icon (left) - scaled smaller -->
+  <path d="M30 20 L80 140 L100 105 L65 20 Z" fill="#0d0d0d"/>
+  <path d="M42 20 L82 112 L100 105 L77 20 Z" fill="white"/>
+  <path d="M170 20 L120 140 L100 105 L135 20 Z" fill="#0d0d0d"/>
+  <path d="M158 20 L118 112 L100 105 L123 20 Z" fill="white"/>
+  <path d="M100 105 L82 137 L100 148 L118 137 Z" fill="#0d0d0d"/>
+  <path d="M93 96 L100 105 L107 96 L100 88 Z" fill="white"/>
+  <!-- SYNDICATE text (right) -->
+  <text x="205" y="100" text-anchor="start" font-family="Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="4" fill="#0d0d0d">SYNDICATE</text>
+  <text x="478" y="62" font-family="Arial" font-size="20" fill="#0d0d0d">&#174;</text>
+</svg>

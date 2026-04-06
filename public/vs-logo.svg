@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 203" fill="none">
+  <!-- V Syndicate interlocking geometric V logo recreation -->
+  <!-- Left outer arm -->
+  <path d="M10 15 L85 180 L112 130 L60 15 Z" fill="#111111"/>
+  <!-- Right outer arm -->
+  <path d="M214 15 L139 180 L112 130 L164 15 Z" fill="#111111"/>
+  <!-- Left inner cutout -->
+  <path d="M32 15 L96 145 L112 130 L82 15 Z" fill="white"/>
+  <!-- Right inner cutout -->
+  <path d="M192 15 L128 145 L112 130 L142 15 Z" fill="white"/>
+  <!-- Center diamond overlap -->
+  <path d="M112 110 L96 145 L112 165 L128 145 Z" fill="#111111"/>
+  <!-- Center diamond white overlay for woven effect -->
+  <path d="M112 110 L100 130 L112 140 L124 130 Z" fill="white"/>
+  <!-- SYNDICATE text -->
+  <text x="112" y="198" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="8" fill="#111111">SYNDICATE</text>
+  <!-- Registered mark -->
+  <text x="200" y="188" font-family="Arial" font-size="12" fill="#111111">®</text>
+</svg>

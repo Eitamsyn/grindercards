@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 130 330 420">
+  <!-- V Syndicate vertical logo — transparent background, dark ink -->
+  <!-- Based on traced coordinates from official PDF -->
+
+  <!-- LEFT ARM (outer shape, full) -->
+  <polygon fill="#111111" points="
+    130,155
+    175,155
+    310,470
+    220,470
+  "/>
+
+  <!-- RIGHT ARM (outer shape, full) -->
+  <polygon fill="#111111" points="
+    355,155
+    400,155
+    310,470
+    220,470
+  "/>
+
+  <!-- WEAVE: White mask over left arm where right arm passes over it (upper crossing) -->
+  <!-- Right arm passes UNDER left arm at top, left arm passes OVER -->
+  <!-- So we need to cut right arm's upper section to go under -->
+  <!-- White triangle masks right arm behind left arm at upper cross -->
+  <polygon fill="white" points="
+    252,275
+    295,240
+    305,300
+    262,340
+  "/>
+
+  <!-- Diamond negative space at center (the open diamond in the weave) -->
+  <polygon fill="white" points="
+    265,340
+    240,390
+    265,440
+    290,390
+  "/>
+
+  <!-- SYNDICATE text -->
+  <text
+    x="265"
+    y="565"
+    text-anchor="middle"
+    font-family="'Montserrat', 'Gotham', 'Helvetica Neue', Arial, sans-serif"
+    font-size="28"
+    font-weight="800"
+    letter-spacing="5"
+    fill="#111111"
+  >SYNDICATE</text>
+  <text
+    x="381"
+    y="548"
+    font-family="Arial, sans-serif"
+    font-size="14"
+    fill="#111111"
+  >®</text>
+</svg>
