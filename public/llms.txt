@@ -1,25 +1,25 @@
-# GrinderCards
-
-> AI-powered custom grinder card design tool. Generate print-ready grinder card artwork from text prompts and logos.
+# GrinderCards by V Syndicate
+> Custom grinder card designer powered by AI. The original grinder card inventor since 2012.
 
 ## What is GrinderCards?
+GrinderCards.com lets anyone design custom grinder cards using AI. Upload a logo or describe your design, and our AI generates unique cannabis business card / grinder card designs instantly.
 
-GrinderCards is a web application and API for designing custom grinder cards using AI image generation. Powered by V Syndicate, the original inventor of the grinder card since 2003.
+## Products
+- **Custom Grinder Cards** — AI-designed, fully branded, low minimums
+  - Price: Contact for wholesale pricing
+  - URL: https://grindercards.com/editor
+  - Use: Dispensary promos, cannabis brand merch, smoke shop giveaways
 
-## Pages
+## Who uses GrinderCards?
+- Cannabis dispensaries
+- Smoke shops
+- Cannabis brands and startups
+- Event promoters
+- Wholesale buyers
 
-- [Home](https://grindercards.com): Landing page and product overview
-- [Editor](https://grindercards.com/editor): AI design studio — upload logo, type prompt, get designs
-- [FAQ](https://grindercards.com/faq): Frequently asked questions about grinder cards and the design tool
-- [API Docs](https://grindercards.com/api/docs): OpenAPI spec for programmatic access
-
-## API
-
-POST https://grindercards.com/api/generate
-- Input: { prompt: string, logo?: base64string }
-- Output: { designs: [{ id, imageUrl, prompt }] }
-- No auth required for basic usage
-
-## About Grinder Cards
-
-A grinder card is a credit card-sized (3.375" x 2.125") herb grinder with a grated surface. V Syndicate invented the grinder card in 2003. Custom grinder cards can be printed with any artwork and are popular for brand merchandise, dispensary promotions, and personal use.
+## Key Info
+- Brand: GrinderCards by V Syndicate
+- Website: https://grindercards.com
+- Design Tool: https://grindercards.com/editor
+- Contact: https://grindercards.com/contact
+- Original grinder card inventor since 2012
