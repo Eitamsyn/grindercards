@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   description: "Design custom grinder cards in seconds. Upload your logo or describe your vision and our AI generates unique designs instantly. Minimum orders, fast shipping. Powered by V Syndicate – the original grinder card inventor since 2012.",
   keywords: ["custom grinder cards", "personalized grinder cards", "grinder card designer", "cannabis business cards", "rolling tray cards", "dispensary promo cards", "V Syndicate", "AI grinder design", "cannabis accessories", "custom smoke shop merch"],
   metadataBase: new URL("https://grindercards.com"),
+  verification: { google: 'D5pR532ssZiUyGle865IlBxpJr72G3ZHoSlFEw6tsC0' },
   alternates: { canonical: "https://grindercards.com" },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
   openGraph: {
